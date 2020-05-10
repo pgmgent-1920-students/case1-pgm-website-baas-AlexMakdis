@@ -1,0 +1,9 @@
+[
+    {
+        "name":"Web App - Swappit",
+        "description":"Swappit is een veilingsplatform voor festivaltickets dat kopers en verkopers in contact brengt. Dit platform garandeert dat de gebruiker zijn ticket kan ruilen op een veilige en eenvoudige manier. De backoffice, gemaakt in Laravel, haalt data op uit een MySQL database en verdeelt dit via een eigen API. Via deze API consumeren we data in de frontoffice, die gemaakt is in Angular.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/atwork2-case1-baas/static/cases/images/case_lg_swapit_tiles.jpg",
+        "createdAt":1587591598046,
+        "modifiedAt":1587591598046
+    }
+]
