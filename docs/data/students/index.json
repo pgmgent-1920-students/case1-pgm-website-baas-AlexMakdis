@@ -1,0 +1,527 @@
+{
+    "records": [{
+            "id": "rec1dTAddXAa4yqqy",
+            "fields": {
+                "favourite": "WEBPGM",
+                "interests": "scouts, marvel, api's, (web)design, printing, code, javascript",
+                "groenten": "prei",
+                "name_last": "De Ryck",
+                "img": [{
+                    "id": "att8dLgvWJYy1rpyX",
+                    "url": "https://dl.airtable.com/.attachments/3732da9951957f0f3677b241f31c43bd/40d52db2/92817995_2663791323731127_1519225826330017792_o.jpg",
+                    "filename": "92817995_2663791323731127_1519225826330017792_o.jpg",
+                    "size": 427473,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/37f046e1c48edfe9a0a808b27c82a355/e152f762",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/638a5a7c5e9ca65cf834081e0fc54f29/7800f87f",
+                            "width": 513,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/ad15d7c93b12044437d6ee83ba543c6a/811eb071",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "Think beyond the box",
+                "about": "Hi 👋!\nSinds zowat het eerste middelbaar was ik bezig met grafisch ontwerp en deze weg wou ik op Artevelde verderzetten. Wanneer ik afgestudeerd ben in het middelbaar heb ik dan twee jaar Crossmedia Ontwerp gedaan maar dit beviel me niet echt. \nTijdens die twee jaar kregen we ook lessen coderen en daar merkte ik dat mij dat ook interesseerde. Ik was al enige tijd aan het twijfelen om te veranderen van richting en wanneer ik hoorde dat er een graduaat programmeren kwam op onze campus heb ik niet lang getwijfeld.\nIn het graduaat komen beide interesses mooi samen. Ik kan zowel code schrijven als designen. Alhoewel ik de grafische industrie wel mis heb ik nog geen seconde spijt gehad van de keuze.\n",
+                "name_first": "Lennert"
+            },
+            "createdTime": "2020-05-12T10:19:55.000Z"
+        },
+        {
+            "id": "recDWEUUAL1g7HQWp",
+            "fields": {
+                "favourite": "@Work",
+                "interests": "Koken, Lego, Gamen",
+                "groenten": "aardappel",
+                "name_last": "De Meue",
+                "img": [{
+                    "id": "attUjEDuc0eQOsFev",
+                    "url": "https://dl.airtable.com/.attachments/99df140d63d145b5473b812f5eef5820/34ca8990/mathieu.jpg",
+                    "filename": "mathieu.jpg",
+                    "size": 160191,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/04d10979eb8837f9f9373b7bd01adeed/7b99a397",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/5f1fa62c40e63d2723039fa954794a55/6705d158",
+                            "width": 512,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/0f82566fdc27a059257c6d53694a0ea4/7bb3fe4c",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "\"Dat is hier een tikkende tijdbom!\"",
+                "about": "Na het middelbaar heb ik enkele moeilijke jaren gehad in de zoektocht naar de juiste studierichting, tot ik het graduaat programmeren zag passeren op sociale media kanalen van Artevelde. Ik was direct verkocht! De klassfeer en de richting zelf zijn geweldig!\n",
+                "name_first": "Mathieu"
+            },
+            "createdTime": "2020-05-04T18:58:51.000Z"
+        },
+        {
+            "id": "recEkYqT78hdJTP1X",
+            "fields": {
+                "favourite": "WEBPGM",
+                "interests": "tetten, zalmtoastjes, orvallekes",
+                "groenten": "prei",
+                "name_last": "Jackson",
+                "img": [{
+                    "id": "attEoRPcWHhefj3uD",
+                    "url": "https://dl.airtable.com/.attachments/11538898923bb08c789872cc39bad11a/56eb383c/tenor.gif",
+                    "filename": "tenor.gif",
+                    "size": 2689841,
+                    "type": "image/gif",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/7bb700d34257ad111f366dcc4950fcb9/56da7fef",
+                            "width": 45,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/7c69cf65f10a2ca13d84b1a84f434a31/4fb07f4c",
+                            "width": 314,
+                            "height": 252
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/4886d04970b75e14236b084e0b2c2369/96cd9643",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "No matter if it's black or white als 't maar te zuipen is",
+                "quote": "No matter if it's black or white als 't maar te zuipen is",
+                "name_first": "Michael"
+            },
+            "createdTime": "2020-04-23T11:29:47.000Z"
+        },
+        {
+            "id": "recFlvTFXYA4ySC9p",
+            "fields": {
+                "favourite": "WEBPGM",
+                "interests": "Games, Metal, Code",
+                "groenten": "aardappel",
+                "name_last": "Vandermeersch",
+                "img": [{
+                    "id": "attn494tia5lil2tl",
+                    "url": "https://dl.airtable.com/.attachments/6013f0a8f86e92eefe8aea5291c9cf16/5ee2be6c/jessevander.jpg",
+                    "filename": "jessevander.jpg",
+                    "size": 862044,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/aeb3109faf740ea865a8e9e86c4550e1/4341c62d",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/9cdd13820994c9582d8d1ec7d4ee52a0/7b99bc56",
+                            "width": 512,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/03a48a28654592a293343230d65fd47d/ef384b54",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "Think, Design, Code.",
+                "about": "Ik ben 23 lentes jong en afkomstig uit West-Vlaanderen. Mijn 3 groote liefdes in het leven zijn games, heavy metal en code. Ik probeer deze drie interesses zoveel mogelijk met elkaar te combineren bij alles wat ik doe.\n\nCoole dingen maken met harde tunes op de achtergrond, zo wil ik mijn dagen doorbrengen!\n",
+                "name_first": "Jesse"
+            },
+            "createdTime": "2020-05-09T12:25:15.000Z"
+        },
+        {
+            "id": "recLgfYAkgMp2UvM1",
+            "fields": {
+                "favourite": "@Work",
+                "interests": "Bier, het alcoholprobleem van jaimy's mama, hamsters",
+                "groenten": "aardappel",
+                "name_last": "Martens",
+                "img": [{
+                    "id": "attYvnaLdX7aNScxI",
+                    "url": "https://dl.airtable.com/.attachments/2ffd41c80a1074dd78b980b433a3314a/d41f8659/inbound3647642866446826804.jpg",
+                    "filename": "inbound3647642866446826804.jpg",
+                    "size": 144867,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/bd52568970ca38de3114c7412a5e71d2/ff835323",
+                            "width": 20,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/35f47e0a4afe4e9e910ed126b8590e3f/e472714b",
+                            "width": 512,
+                            "height": 910
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/b3ab76ea5e23cea75c1dd477b7c3944f/f568eeba",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "I put the sexy in dyslexic",
+                "about": "Tleven is geen ponny kamp maar ik was wel graag is naar 1 geweest.\n",
+                "name_first": "Louis"
+            },
+            "createdTime": "2020-05-04T20:57:09.000Z"
+        },
+        {
+            "id": "recTzcDySP7TGJn4x",
+            "fields": {
+                "favourite": "WEBPGM",
+                "interests": "Breakdance, Hip Hop, Tricks & Flips, Samenzijn met vrienden",
+                "groenten": "prei",
+                "name_last": "Dumoulin",
+                "img": [{
+                    "id": "attm2Vr8sLWOV6aNi",
+                    "url": "https://dl.airtable.com/.attachments/99a5e94ff961bda1093e0e9c131cfa18/47911327/artevelde_pf_kleiner.jpg",
+                    "filename": "artevelde_pf_kleiner.jpg",
+                    "size": 992437,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/ff3b58e3138044faa8225f1cd0da8bb3/4c5a7fc4",
+                            "width": 38,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/d3b9abb6b4819af3dadc67dcb821ed2d/a25f2ca3",
+                            "width": 534,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/d993f9645d0b2b60b2dc7d0707d94210/cc853533",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "\"Live today, work tomorrow!\"",
+                "quote": "\"Live today, work tomorrow!\"",
+                "about": "Ik ben 18 jaar en kom rechtstreeks uit het middelbaar waar ik afgestudeerd ben in de richting wetenschappen & wiskunde.\nIk had dus totaal geen kennis van programmeren. Toch kon ik in deze richting mee volgen met het tempo (het één onderwerp al wat beter dan het ander).\nDus ook zonder voorkennis kan je deze perfect halen. Het enige wat je wel echt nodig hebt is zelfvertrouwen en doorzettingsvermogen.\n",
+                "name_first": "Glenn"
+            },
+            "createdTime": "2020-04-23T14:10:31.000Z"
+        },
+        {
+            "id": "recUBrYzPVzhhFvCa",
+            "fields": {
+                "favourite": "@Work",
+                "interests": "Marvel, gezellige gesprekken met vrienden, mijn vriendin",
+                "groenten": "prei",
+                "name_last": "Van Gyseghem",
+                "img": [{
+                    "id": "attWdQ771Ad6w69Xc",
+                    "url": "https://dl.airtable.com/.attachments/2ccabfba30429d931c3b440c90a52b24/bdf66c71/inbound1220083259768684496.jpg",
+                    "filename": "inbound1220083259768684496.jpg",
+                    "size": 11278056,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/6088461b1483f1726211cbb78609c686/0fd9a31b",
+                            "width": 54,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/9e0a4860a1d429c55a0957a6a5cea48b/8a322593",
+                            "width": 768,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/409646c028bdccc854e845e2b456222e/5cec09a8",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "I am Groot.",
+                "quote": "I am Groot.",
+                "about": "Ik ben 21 jaar en een zeer gemotiveerde student. Programmeren is mijn passie. Met deze richting hoop ik dus van mijn passie een beroep te maken. \n",
+                "name_first": "Jaimy"
+            },
+            "createdTime": "2020-04-23T12:31:19.000Z"
+        },
+        {
+            "id": "recWPE9vsyLd5A3uu",
+            "fields": {
+                "favourite": "WEBPGM",
+                "interests": "Voetbal, Front-end web development, Back-end web development, Netflix, minivoetbal, muziek, DJ ",
+                "groenten": "aardappel",
+                "name_last": "De Maerteleire",
+                "img": [{
+                    "id": "att5l4E6FPyx8KDu8",
+                    "url": "https://dl.airtable.com/.attachments/71932dc974740d072928fd4f87ccaea4/9aa3012c/schoolfoto.jpg",
+                    "filename": "schoolfoto.jpg",
+                    "size": 10359890,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/d70427f53d9cab8ee269e15dc3b6aa14/53e8f631",
+                            "width": 54,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/d14bb4aa16d1f11de7a2474dea3c22a8/9f55514a",
+                            "width": 768,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/3edc87370e5fe24d99f6207a215c90f7/7e62d18c",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "Don't raise your voice, improve your argument",
+                "quote": "Don't raise your voice, improve your argument",
+                "about": "Ik ben 20 jaar, heb de afgelopen 2 jaar wat zitten sukkelen op zoek naar de juiste richting. Gelukkig heb ik deze richting gevonden. Ik was altijd al op zoek naar een richting in die IT die eerder op web gefocust was en deze heb ik uiteindelijk ook gevonden. \n\nIk had al enige voorkennis van programmeren maar heb die enorm uitgebreid. In het verleden maakte ik soms wel eens een website of schreef ik wat amateuristische scripts als hobby. Nu kan ik er veel meer van. Leer ik nieuwe technieken en frameworks in de lessen en ga ik ook zelf op zoek naar nieuwe methoden die me kunnen helpen in de toekomst.\n\nDe lessen zijn voor iedereen op maat en de leerkrachten ondersteunen de leerlingen zoveel als mogelijk. Heb je al enige voorkennis zullen ze jou grotere uitdagingen geven zodat iedereen altijd bezig is en bij leert. De medeleerlingen helpen elkaar ook wanneer nodig wat bij veel andere richtingen niet zo is. \n\nIk ben heel blij deze richting gevonden te hebben. De perfecte combinatie tussen programmeren, designen en de algemene kennis van IT !\n",
+                "name_first": "Thibaut"
+            },
+            "createdTime": "2020-04-23T12:31:37.000Z"
+        },
+        {
+            "id": "recbR2jDGj8K5j4ra",
+            "fields": {
+                "favourite": "WEBPGM",
+                "interests": "Auto's, Programmeren, Muziek",
+                "groenten": "prei",
+                "name_last": "Meganck",
+                "img": [{
+                    "id": "attTUS3HqjAJ9noyS",
+                    "url": "https://dl.airtable.com/.attachments/a84bcda222068d37257b464c4459356b/0dec790d/F16F6A1A-C949-4FCA-8584-A659AD2E7E55_1_201_a.jpeg",
+                    "filename": "F16F6A1A-C949-4FCA-8584-A659AD2E7E55_1_201_a.jpeg",
+                    "size": 443849,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/607181af5f62d1017526ba4ad463a83f/6b5a1be8",
+                            "width": 29,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/61d957fdca3507ed91a26c363e2d22dc/f732dca6",
+                            "width": 512,
+                            "height": 633
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/c66188dec821a5073b6e2ec06d6fbdc9/6e95f96a",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "The goal is to die with memories, not dreams.",
+                "quote": "The goal is to die with memories, not dreams.",
+                "about": "Mijn naam is Alec, ik studeer Programmeren aan Arteveldehogeschool te Gent. Hiervoor heb ik een jaar de opleiding Devine gestudeerd en daarvoor Multimedia. Ik ben dus al een paar jaar bezig met coderen en ben zeker nog niet van plan om te stoppen.\n",
+                "name_first": "Alec"
+            },
+            "createdTime": "2020-04-23T15:32:18.000Z"
+        },
+        {
+            "id": "rechdv9esiIm4Z9mU",
+            "fields": {
+                "favourite": "WEBDES",
+                "interests": "koken, programmeren, sporten, films",
+                "groenten": "aardappel",
+                "name_last": "Makdis Afrim",
+                "img": [{
+                    "id": "att6N8oEbKDjpmXQD",
+                    "url": "https://dl.airtable.com/.attachments/2bc0455cc5242bc65d9e036afbca4534/d8c227ab/37488579_1935458559826354_816351834179371008_o.jpg",
+                    "filename": "37488579_1935458559826354_816351834179371008_o.jpg",
+                    "size": 142635,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/f2bda1669d8b96e1326ca62463c6ab64/735917cf",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/4fbf2747ee55cf6820995f9a50ac594a/cb918ddd",
+                            "width": 512,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/865ed9e07bbbb5ffe98490398796a0fb/a9d44961",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "\"sweg\"",
+                "about": "Corona survivor\n",
+                "name_first": "Alex"
+            },
+            "createdTime": "2020-05-12T10:35:56.000Z"
+        },
+        {
+            "id": "recm6iP1JxMZI8YZd",
+            "fields": {
+                "favourite": "WEBPGM",
+                "interests": "Gamen, concerten, festivals",
+                "groenten": "prei",
+                "name_last": "Van Steendam",
+                "img": [{
+                    "id": "attnskHOjR9VsVREg",
+                    "url": "https://dl.airtable.com/.attachments/2b1fd332efbfc90b545b79cd27802f77/103693ac/inbound3410958880606720192.jpg",
+                    "filename": "inbound3410958880606720192.jpg",
+                    "size": 440871,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/8de446b4ea66e6b1135dc672b2a803af/d1ca3413",
+                            "width": 34,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/61f1a9f92fbf0bde5cfd93a83f3b913f/5142a7ec",
+                            "width": 512,
+                            "height": 543
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/5060015d0f0fcb0e0a4ecb4ead0fa7a1/501c1bc6",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "\"Never give up\"",
+                "quote": "\"Never give up\"",
+                "about": "Ik ben Jarne, ik hou van gamen, slapen en eten. Ik ben een metal fan. Natuurlijk heb ik ook grote interesse in coderen.\n",
+                "name_first": "Jarne"
+            },
+            "createdTime": "2020-05-04T13:46:12.000Z"
+        },
+        {
+            "id": "recnkg0bt7kM6nJGE",
+            "fields": {
+                "favourite": "UI/UX",
+                "interests": "dans en gamen",
+                "groenten": "prei",
+                "name_last": "De Blanck",
+                "img": [{
+                    "id": "attmbwR9nkLKswBgN",
+                    "url": "https://dl.airtable.com/.attachments/53b8adfc55c515e31b37eb85925c1d9c/5a29cc8d/cedric.jpg",
+                    "filename": "cedric.jpg",
+                    "size": 399576,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/83601c625b41f2cccbd5b27b8bc2f19a/4f605483",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/45749efa72b2df118e1377f4e9528b44/6dc6c10a",
+                            "width": 512,
+                            "height": 512
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/efd158d3f41e562a3f2696f41fa75372/7772a559",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "I can't write code, but i can copy paste?",
+                "quote": "I can't write code, but i can copy paste?",
+                "about": "Ik ben 19 jaar, hiervoor in het middelbaar deed ik elektriciteit en wist ik nog niet wat ik moest doen. Toen ben ik bij Graduaat Programmeren terecht gekomen in Artevelde Hogeschool.\n",
+                "name_first": "Cédric"
+            },
+            "createdTime": "2020-04-23T12:29:12.000Z"
+        },
+        {
+            "id": "recqvGQTwrAGzPGya",
+            "fields": {
+                "favourite": "@Work",
+                "interests": "Concerten, lezen, gitaar spelen",
+                "groenten": "prei",
+                "name_last": "Genitello",
+                "img": [{
+                    "id": "attkfg50ctdLPUPTq",
+                    "url": "https://dl.airtable.com/.attachments/7191ad54d934b820f2ea99e52e0f9bec/29c5e13d/inbound1633630384672472469.jpg",
+                    "filename": "inbound1633630384672472469.jpg",
+                    "size": 87175,
+                    "type": "image/jpeg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/3914bea830ad157dc1a8fb822ec0b037/0bb86cae",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/0f5d654d9038e3a4bcb4f0d4dd29db3c/8298dd49",
+                            "width": 512,
+                            "height": 513
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/8305272886bee6011c05333e5695e70a/ef73a6cc",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "Kickstart my heart",
+                "about": "Mijn naam is Nina, ik ben 24.\nIk hou van naar optredens en festivals te gaan. Maar natuurlijk ook van coderen.\n",
+                "name_first": "Nina"
+            },
+            "createdTime": "2020-05-04T18:42:35.000Z"
+        },
+        {
+            "id": "recwWqE9I74jfebLa",
+            "fields": {
+                "favourite": "UI/UX",
+                "interests": "Basketbal, Uitgaan",
+                "groenten": "aardappel",
+                "name_last": "Delporte",
+                "img": [{
+                    "id": "attKGRQpZZo9mWURe",
+                    "url": "https://dl.airtable.com/.attachments/ec3c31811d415afe8bc7ffb7cf18e429/202d82db/018ee4d95e5ac20ae03316b2726419f9.png",
+                    "filename": "018ee4d95e5ac20ae03316b2726419f9.png",
+                    "size": 76666,
+                    "type": "image/png",
+                    "thumbnails": {
+                        "small": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/945b3c678f5423f1ca1c0127dbd06816/5f0f69d3",
+                            "width": 36,
+                            "height": 36
+                        },
+                        "large": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/bcfc18d3fb682c44dd2b28eadcece82a/bdcada45",
+                            "width": 200,
+                            "height": 200
+                        },
+                        "full": {
+                            "url": "https://dl.airtable.com/.attachmentThumbnails/538b59ee5bc0eda9e1bc554c05b46477/a7f35de1",
+                            "width": 3000,
+                            "height": 3000
+                        }
+                    }
+                }],
+                "quote_alt": "“There are no secrets to success. It is the result of preparation, hard work and learning from failure.”",
+                "about": "Ik ben 20 jaar en kom rechtstreeks uit het middelbaar waar ik ben afgestudeerd in de richting Business support.\nIk heb deze richting gekozen omdat het mij interesseerde en dacht van \"wow ga ik ook zo'n toffe websites kunnen maken\". Maar natuurlijk met het feit dat ik niets van voorkennis had in programmeren Maar tot vandaag heb ik nog altijd geen spijt dat ik voor deze richting heb gekozen.\n",
+                "name_first": "Romanie"
+            },
+            "createdTime": "2020-05-09T12:25:04.000Z"
+        }
+    ]
+}
