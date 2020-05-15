@@ -18,7 +18,7 @@ function init() {
   var slide = new Slide(width, height, 'out');
 	var l1 = new THREE.ImageLoader();
 	l1.setCrossOrigin('Anonymous');
-	l1.load('https://cdn.eso.org/images/thumb300y/eso1907a.jpg', function(img) {
+	l1.load('https://scontent-bru2-1.xx.fbcdn.net/v/t1.15752-9/97759785_530897411123737_2010945757191864320_n.jpg?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=fzfiLl0Kf8wAX_7ZhDV&_nc_ht=scontent-bru2-1.xx&oh=06f7846719944b3f992975d1ab278887&oe=5EE4ED62', function(img) {
 	  slide.setImage(img);
 	})
   root.scene.add(slide);
@@ -26,7 +26,7 @@ function init() {
   var slide2 = new Slide(width, height, 'in');
   var l2 = new THREE.ImageLoader();
 	l2.setCrossOrigin('Anonymous');
-	l2.load('https://raw.githubusercontent.com/scriptonofficial/3D-Image-Transition-Project-Files/master/images/spring.png', function(img) {
+	l2.load('https://scontent-bru2-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/96435240_3253351764704021_7122405444470964224_n.jpg?_nc_cat=102&_nc_sid=b96e70&_nc_ohc=4UlCIkSmaLwAX_v0jSC&_nc_ht=scontent-bru2-1.xx&_nc_tp=7&oh=31f1bd2cff698c98ab39d5e39f673945&oe=5EE446A3', function(img) {
 		slide2.setImage(img);
 	})
 	
