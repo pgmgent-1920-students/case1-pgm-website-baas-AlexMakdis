@@ -389,7 +389,7 @@ function createTweenScrubber(tween, seekSpeed) {
   // desktop
   var mouseDown = false;
   
-
+ document.getElementById('three-container').style.cursor = 'pointer'
   window.addEventListener('mousedown', function(e) {
     mouseDown = true;
     document.body.style.cursor = 'ew-resize';
@@ -398,7 +398,7 @@ function createTweenScrubber(tween, seekSpeed) {
   });
   window.addEventListener('mouseup', function(e) {
     mouseDown = false;
-    document.body.style.cursor = 'none';
+    document.body.style.cursor = 'default';
     resume();
   });
   window.addEventListener('mousemove', function(e) {
