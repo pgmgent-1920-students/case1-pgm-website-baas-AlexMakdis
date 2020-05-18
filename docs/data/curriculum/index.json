@@ -1,0 +1,311 @@
+[
+    {
+        "card1":{
+            "front":{
+                "titel":"IT Communication",
+                "logo":"m-course_icon fas fa-fw fa-comments-dollar",
+                "sp":"3" ,
+                "u/w":"6" 
+            },
+            "back":{
+                "titel":"Business & Communication for IT",
+                "leren":"Professioneel communiceren naar de buitenwereld aan de hand van online tools.",
+                "programms":"Programma’s: Word, Excel, Pwp, OBS, Mailchimp, ..."
+            }
+        },
+
+        "card2":{
+            "front":{
+                "titel":"IT Business",
+                "logo":"m-course_icon fas fa-fw fa-comments-dollar",
+                "sp":"3" ,
+                "u/w":"6"
+            },
+            "back":{
+                "titel":"Business & Communication for IT",
+                "leren":"Professioneel communiceren naar de buitenwereld aan de hand van online tools.",
+                "programms":"Programma’s: Word, Excel, Pwp, OBS, Mailchimp, ..."
+            }
+        },
+
+        "card3":{
+            "front":{
+                "titel":"Computer Systems",
+                "logo":"m-course_icon fas fa-fw fa-server",
+                "sp":"3" ,
+                "u/w":"6" 
+            },
+            "back":{
+                "titel":"Applied Information Technology",
+                "leren":"Inzicht krijgen in computersystemen en softwareontwikkeling.",
+                "programms":"Javascript, Raspberry PI"
+            }
+        },
+
+        "card4":{
+            "front":{
+                "titel":"Web Design",
+                "logo":"m-course_icon fas fa-fw fa-pencil-ruler",
+                "sp":"6" ,
+                "u/w":"8" 
+            },
+            "back":{
+                "titel":"Webdesign",
+                "leren":"Basics leren van HTML en CSS!",
+                "programms":"HTML, CSS"
+            }
+        },
+
+        "card5":{
+            "front":{
+                "titel":"User Interface Design",
+                "logo":"m-course_icon fas fa-fw fa-pencil-ruler",
+                "sp":"6" ,
+                "u/w":"8" 
+            },
+            "back":{
+                "titel":"User interface & User eXperience",
+                "leren":"Basics leren van de designwereld!",
+                "programms":"Adobe Illustrator, Photoshop, XD, Animate, Blender,…"
+            }
+        },
+
+        "card6":{
+            "front":{
+                "titel":"User Interface Prototyping",
+                "logo":"m-course_icon fas fa-fw fa-pencil-ruler",
+                "sp":"6" ,
+                "u/w":"8" 
+            },
+            "back":{
+                "titel":"User interface & User eXperience",
+                "leren":"Basics leren van de designwereld!",
+                "programms":"Adobe Illustrator, Photoshop, XD, Animate, Blender,…"
+            }
+        },
+
+        "card7":{
+            "front":{
+                "titel":"Programming 1",
+                "logo":"m-course_icon fas fa-fw fa-code",
+                "sp":"6" ,
+                "u/w":"10" 
+            },
+            "back":{
+                "titel":"Web Programming",
+                "leren":"Level up to become a Javascript master!",
+                "programms":"Javascript"
+            }
+        },
+
+        "card8":{
+            "front":{
+                "titel":"Programming 2",
+                "logo":"m-course_icon fas fa-fw fa-code",
+                "sp":"3" ,
+                "u/w":"6" 
+            },
+            "back":{
+                "titel":"Web Programming",
+                "leren":"Level up to become a Javascript master!",
+                "programms":"Javascript"
+            }
+        },
+
+        "card9":{
+            "front":{
+                "titel":"Programming 3",
+                "logo":"m-course_icon fas fa-fw fa-code",
+                "sp":"6" ,
+                "u/w":"10" 
+            },
+            "back":{
+                "titel":"Web Programming",
+                "leren":"Level up to become a Javascript master!",
+                "programms":"Javascript"
+            }
+        },
+
+        "card10":{
+            "front":{
+                "titel":"Programming 4",
+                "logo":"m-course_icon fas fa-fw fa-code",
+                "sp":"6" ,
+                "u/w":"8" 
+            },
+            "back":{
+                "titel":"Web Programming",
+                "leren":"Level up to become a Javascript master!",
+                "programms":"Javascript"
+            }
+        },
+
+        "card11":{
+            "front":{
+                "titel":"@Work 1",
+                "logo":"m-course_icon fas fa-fw fa-business-time",
+                "sp":"6" ,
+                "u/w":"10" 
+            },
+            "back":{
+                "titel":"@work",
+                "leren":"Gebruik de kennis van elk vak om aan de slag met echte cases uit het werkveld!",
+                "programms":"You may chose your weapons!"
+            }
+        },
+
+        "card12":{
+            "front":{
+                "titel":"@Work 2",
+                "logo":"m-course_icon fas fa-fw fa-business-time",
+                "sp":"6" ,
+                "u/w":"10" 
+            },
+            "back":{
+                "titel":"@work",
+                "leren":"Gebruik de kennis van elk vak om aan de slag met echte cases uit het werkveld!",
+                "programms":"You may chose your weapons!"
+            }
+        },
+
+        "card13":{
+            "front":{
+                "titel":"IT Entrepreneurship",
+                "logo":"m-course_icon fas fa-fw fa-comments-dollar",
+                "sp":"3" ,
+                "u/w":"4" 
+            },
+            "back":{
+                "titel":"Business & Communication for IT",
+                "leren":"Professioneel communiceren naar de buitenwereld aan de hand van online tools.",
+                "programms":"Programma’s: Word, Excel, Pwp, OBS, Mailchimp, ..."
+            }
+        },
+
+        "card14":{
+            "front":{
+                "titel":"Data Management",
+                "logo":"m-course_icon fas fa-fw fa-server",
+                "sp":"6" ,
+                "u/w":"10" 
+            },
+            "back":{
+                "titel":"Applied Information Technology",
+                "leren":"Inzicht krijgen in computersystemen en softwareontwikkeling.",
+                "programms":"Javascript, Raspberry PI"
+            }
+        },
+
+        "card15":{
+            "front":{
+                "titel":"IT Exploration",
+                "logo":"m-course_icon fas fa-fw fa-server",
+                "sp":"3" ,
+                "u/w":"4" 
+            },
+            "back":{
+                "titel":"Applied Information Technology",
+                "leren":"Inzicht krijgen in computersystemen en softwareontwikkeling.",
+                "programms":"Javascript, Raspberry PI"
+            }
+        },
+
+        "card16":{
+            "front":{
+                "titel":"Interactive Media",
+                "logo":"m-course_icon fas fa-fw fa-pencil-ruler",
+                "sp":"3" ,
+                "u/w":"6" 
+            },
+            "back":{
+                "titel":"User interface & User eXperience",
+                "leren":"Basics leren van de designwereld!",
+                "programms":"Adobe Illustrator, Photoshop, XD, Animate, Blender,…"
+            }
+        },
+
+        "card17":{
+            "front":{
+                "titel":"Content Management Systems",
+                "logo":"m-course_icon fas fa-fw fa-pencil-ruler",
+                "sp":"3" ,
+                "u/w":"6" 
+            },
+            "back":{
+                "titel":"User interface & User eXperience",
+                "leren":"Basics leren van de designwereld!",
+                "programms":"Adobe Illustrator, Photoshop, XD, Animate, Blender,…"
+            }
+        },
+
+        "card18":{
+            "front":{
+                "titel":"Programming 5",
+                "logo":"m-course_icon fas fa-fw fa-code",
+                "sp":"6" ,
+                "u/w":"8" 
+            },
+            "back":{
+                "titel":"Web Programming",
+                "leren":"Level up to become a Javascript master!",
+                "programms":"Javascript"
+            }
+        },
+
+        "card19":{
+            "front":{
+                "titel":"Programming 6",
+                "logo":"m-course_icon fas fa-fw fa-code",
+                "sp":"6" ,
+                "u/w":"8" 
+            },
+            "back":{
+                "titel":"Web Programming",
+                "leren":"Level up to become a Javascript master!",
+                "programms":"Javascript"
+            }
+        },
+
+        "card20":{
+            "front":{
+                "titel":"@Work 3",
+                "logo":"m-course_icon fas fa-fw fa-business-time",
+                "sp":"6" ,
+                "u/w":"10" 
+            },
+            "back":{
+                "titel":"@work",
+                "leren":"Gebruik de kennis van elk vak om aan de slag met echte cases uit het werkveld!",
+                "programms":"You may chose your weapons!"
+            }
+        },
+
+        "card21":{
+            "front":{
+                "titel":"@Work 4",
+                "logo":"m-course_icon fas fa-fw fa-business-time",
+                "sp":"15" ,
+                "u/w":"30" 
+            },
+            "back":{
+                "titel":"@work",
+                "leren":"Gebruik de kennis van elk vak om aan de slag met echte cases uit het werkveld!",
+                "programms":"You may chose your weapons!"
+            }
+        },
+
+        "card22":{
+            "front":{
+                "titel":"@Work 5",
+                "logo":"m-course_icon fas fa-fw fa-business-time",
+                "sp":"9" ,
+                "u/w":"30" 
+            },
+            "back":{
+                "titel":"@work",
+                "leren":"Gebruik de kennis van elk vak om aan de slag met echte cases uit het werkveld!",
+                "programms":"You may chose your weapons!"
+            }
+        }
+    }
+]
