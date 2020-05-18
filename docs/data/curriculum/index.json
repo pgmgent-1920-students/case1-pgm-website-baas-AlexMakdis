@@ -5,7 +5,7 @@
                 "titel":"IT Communication",
                 "logo":"m-course_icon fas fa-fw fa-comments-dollar",
                 "sp":"3" ,
-                "u/w":"6" 
+                "ur":"6" 
             },
             "back":{
                 "titel":"Business & Communication for IT",
@@ -19,7 +19,7 @@
                 "titel":"IT Business",
                 "logo":"m-course_icon fas fa-fw fa-comments-dollar",
                 "sp":"3" ,
-                "u/w":"6"
+                "ur":"6"
             },
             "back":{
                 "titel":"Business & Communication for IT",
@@ -33,7 +33,7 @@
                 "titel":"Computer Systems",
                 "logo":"m-course_icon fas fa-fw fa-server",
                 "sp":"3" ,
-                "u/w":"6" 
+                "ur":"6" 
             },
             "back":{
                 "titel":"Applied Information Technology",
@@ -47,7 +47,7 @@
                 "titel":"Web Design",
                 "logo":"m-course_icon fas fa-fw fa-pencil-ruler",
                 "sp":"6" ,
-                "u/w":"8" 
+                "ur":"8" 
             },
             "back":{
                 "titel":"Webdesign",
@@ -61,7 +61,7 @@
                 "titel":"User Interface Design",
                 "logo":"m-course_icon fas fa-fw fa-pencil-ruler",
                 "sp":"6" ,
-                "u/w":"8" 
+                "ur":"8" 
             },
             "back":{
                 "titel":"User interface & User eXperience",
@@ -75,7 +75,7 @@
                 "titel":"User Interface Prototyping",
                 "logo":"m-course_icon fas fa-fw fa-pencil-ruler",
                 "sp":"6" ,
-                "u/w":"8" 
+                "ur":"8" 
             },
             "back":{
                 "titel":"User interface & User eXperience",
@@ -89,7 +89,7 @@
                 "titel":"Programming 1",
                 "logo":"m-course_icon fas fa-fw fa-code",
                 "sp":"6" ,
-                "u/w":"10" 
+                "ur":"10" 
             },
             "back":{
                 "titel":"Web Programming",
@@ -103,7 +103,7 @@
                 "titel":"Programming 2",
                 "logo":"m-course_icon fas fa-fw fa-code",
                 "sp":"3" ,
-                "u/w":"6" 
+                "ur":"6" 
             },
             "back":{
                 "titel":"Web Programming",
@@ -117,7 +117,7 @@
                 "titel":"Programming 3",
                 "logo":"m-course_icon fas fa-fw fa-code",
                 "sp":"6" ,
-                "u/w":"10" 
+                "ur":"10" 
             },
             "back":{
                 "titel":"Web Programming",
@@ -131,7 +131,7 @@
                 "titel":"Programming 4",
                 "logo":"m-course_icon fas fa-fw fa-code",
                 "sp":"6" ,
-                "u/w":"8" 
+                "ur":"8" 
             },
             "back":{
                 "titel":"Web Programming",
@@ -145,7 +145,7 @@
                 "titel":"@Work 1",
                 "logo":"m-course_icon fas fa-fw fa-business-time",
                 "sp":"6" ,
-                "u/w":"10" 
+                "ur":"10" 
             },
             "back":{
                 "titel":"@work",
@@ -159,7 +159,7 @@
                 "titel":"@Work 2",
                 "logo":"m-course_icon fas fa-fw fa-business-time",
                 "sp":"6" ,
-                "u/w":"10" 
+                "ur":"10" 
             },
             "back":{
                 "titel":"@work",
@@ -173,7 +173,7 @@
                 "titel":"IT Entrepreneurship",
                 "logo":"m-course_icon fas fa-fw fa-comments-dollar",
                 "sp":"3" ,
-                "u/w":"4" 
+                "ur":"4" 
             },
             "back":{
                 "titel":"Business & Communication for IT",
@@ -187,7 +187,7 @@
                 "titel":"Data Management",
                 "logo":"m-course_icon fas fa-fw fa-server",
                 "sp":"6" ,
-                "u/w":"10" 
+                "ur":"10" 
             },
             "back":{
                 "titel":"Applied Information Technology",
@@ -201,7 +201,7 @@
                 "titel":"IT Exploration",
                 "logo":"m-course_icon fas fa-fw fa-server",
                 "sp":"3" ,
-                "u/w":"4" 
+                "ur":"4" 
             },
             "back":{
                 "titel":"Applied Information Technology",
@@ -215,7 +215,7 @@
                 "titel":"Interactive Media",
                 "logo":"m-course_icon fas fa-fw fa-pencil-ruler",
                 "sp":"3" ,
-                "u/w":"6" 
+                "ur":"6" 
             },
             "back":{
                 "titel":"User interface & User eXperience",
@@ -229,7 +229,7 @@
                 "titel":"Content Management Systems",
                 "logo":"m-course_icon fas fa-fw fa-pencil-ruler",
                 "sp":"3" ,
-                "u/w":"6" 
+                "ur":"6" 
             },
             "back":{
                 "titel":"User interface & User eXperience",
@@ -243,7 +243,7 @@
                 "titel":"Programming 5",
                 "logo":"m-course_icon fas fa-fw fa-code",
                 "sp":"6" ,
-                "u/w":"8" 
+                "ur":"8" 
             },
             "back":{
                 "titel":"Web Programming",
@@ -257,7 +257,7 @@
                 "titel":"Programming 6",
                 "logo":"m-course_icon fas fa-fw fa-code",
                 "sp":"6" ,
-                "u/w":"8" 
+                "ur":"8" 
             },
             "back":{
                 "titel":"Web Programming",
@@ -271,7 +271,7 @@
                 "titel":"@Work 3",
                 "logo":"m-course_icon fas fa-fw fa-business-time",
                 "sp":"6" ,
-                "u/w":"10" 
+                "ur":"10" 
             },
             "back":{
                 "titel":"@work",
@@ -285,7 +285,7 @@
                 "titel":"@Work 4",
                 "logo":"m-course_icon fas fa-fw fa-business-time",
                 "sp":"15" ,
-                "u/w":"30" 
+                "ur":"30" 
             },
             "back":{
                 "titel":"@work",
@@ -299,7 +299,7 @@
                 "titel":"@Work 5",
                 "logo":"m-course_icon fas fa-fw fa-business-time",
                 "sp":"9" ,
-                "u/w":"30" 
+                "ur":"30" 
             },
             "back":{
                 "titel":"@work",
