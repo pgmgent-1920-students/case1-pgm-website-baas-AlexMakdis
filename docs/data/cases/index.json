@@ -52,7 +52,7 @@
         "tag":"Webdesign",
         "title":"Super villian wanted",
         "description":"Onze eerste opdracht ooit was voor Webdesign.<br><br> Hier kregen we de opdracht om via HTML en CSS een vacature op te maken voor een super slechterik.",
-        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/super-evil.jpg",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/super_evil.jpg",
         "githubUrl":" https://alexmakdis.github.io/Webdesign_super_villain/"
         
     },{
@@ -92,7 +92,7 @@
         "tag":"Webpgm",
         "title":"Project cards",
         "description":"Derde opdracht voor Web Programming. <br><br> Dit was vooral om DOM elementen te oefenen. Hier tonen we projecten van GDM en bij een click worden de details getoond.",
-        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/project_cars.png",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/project_cards.png",
         "githubUrl":" https://alexmakdis.github.io/Webprogram_ProjectCards/"
         
     },{
