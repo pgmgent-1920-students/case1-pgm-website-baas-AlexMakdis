@@ -1,10 +1,10 @@
 [
     {
         "titel":"Contact gegevens",
-        "contactinfo":"Arteveldehogeschool VZW<br>Hoogpoort 15<br>9000 Gent<br><hr>Algemeen Telefoonnummer:<br>T 09 234 90 00<br><hr>Ondernemingsnummer: 0474.120.360<br>BTW-nummer: BTW BE 0474.120.360"
+        "contactinfo":"<p>Arteveldehogeschool VZW<br>Hoogpoort 15<br>9000 Gent</p><br><hr><p>Algemeen Telefoonnummer:<br>T 09 234 90 00</p><br><hr><p>Ondernemingsnummer: 0474.120.360<br>BTW-nummer: BTW BE 0474.120.360</p>"
     },
     {
         "titel":"Contact personen",
-        "contactinfo":"<p>Maaike Callens<br>Verantwoordelijke opleiding Graduaat Programmeren<br><hr>Inge De Canck <br>Verantwoordelijke werkplekleren<br><hr>Philippe De Pauw - Waterschoot <br>Verantwoordelijke werkplekleren<br><hr>Olivier Parent <br>Verantwoordelijke curriculum</p>"
+        "contactinfo":"<p>Maaike Callens<br>Verantwoordelijke opleiding Graduaat Programmeren</p><br><hr><p>Inge De Canck <br>Verantwoordelijke werkplekleren</p><br><hr><p>Philippe De Pauw - Waterschoot <br>Verantwoordelijke werkplekleren<br><hr>Olivier Parent <br>Verantwoordelijke curriculum</p>"
     }
 ]
