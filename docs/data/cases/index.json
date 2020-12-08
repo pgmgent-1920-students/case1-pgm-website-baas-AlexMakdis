@@ -1,9 +1,115 @@
 [
     {
-        "name":"Web App - Swappit",
-        "description":"Swappit is een veilingsplatform voor festivaltickets dat kopers en verkopers in contact brengt. Dit platform garandeert dat de gebruiker zijn ticket kan ruilen op een veilige en eenvoudige manier. De backoffice, gemaakt in Laravel, haalt data op uit een MySQL database en verdeelt dit via een eigen API. Via deze API consumeren we data in de frontoffice, die gemaakt is in Angular.",
-        "thumbnailUrl":"https://pgmgent-1920-students.github.io/atwork2-case1-baas/static/cases/images/case_lg_swapit_tiles.jpg",
-        "createdAt":1587591598046,
-        "modifiedAt":1587591598046
+        "id":"10737437-307e-4232-b687-b03a0d7cfa28",
+        "tag":"atwork",
+        "title":"Arne Quinze",
+        "description":"Onze eerste case voor @work was voor <strong>Arne Quinze</strong>.<br><br>Arne Quinze is een Belgisch conceptueel kunstenaar die vooral bekend is om zijn opvallende kunstinstallaties in het straatbeeld. De opdracht was om zijn site zo goed mogelijk na te maken.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/arne-quinze.png",
+        "githubUrl":" https://alexmakdis.github.io/atwork_1_case1/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa30",
+        "tag":"atwork",
+        "title":"Matthias Taloen",
+        "description":"Onze tweede case voor @work was voor het bouwbedrijf <strong>Matthias Talloen</strong>.<br><br>Matthias Talloen is een bouwbedrijf voor al uw bouwprojecten van A tot Z. De opdracht was om de site zo goed mogelijk na te maken.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/matthias_talloen.png",
+        "githubUrl":" https://alexmakdis.github.io/atwork_1_case2/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa32",
+        "tag":"atwork",
+        "title":"establis",
+        "description":"Onze derde case voor @work was voor <strong>Establis</strong>.<br><br>Establis garandeert u creatieve berekeningen en optimale oplossingen voor uw bouwkundige structuren. De opdracht was om de site zo goed mogelijk na te maken.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/establis.png",
+        "githubUrl":" https://alexmakdis.github.io/atwork_1_case_3/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa34",
+        "tag":"UI/UX",
+        "title":"Curriculum vitae",
+        "description":"Onze eerste opdracht voor UI/UX was om een creatieve cv op te stellen. <br><br> Dit na een paar lessen designen en leren omgaan met tools zoals Illustrator en Adobe XD.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/cv.jpg",
+        "githubUrl":" https://alexmakdis.github.io/UIUX_CV/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa36",
+        "tag":"UI/UX",
+        "title":"One Page Site",
+        "description":"Onze tweede opdracht voor UI/UX was om een creatieve one page te maken met als thema een favoriete film/serie. <br><br> We moesten een parallax implementeren in onze site. Ik heb mijn site gemaakt omtrent de film en boek van het portet van Dorian Gray.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/dorian_gray.png",
+        "githubUrl":" https://alexmakdis.github.io/UIUX_One_page/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa38",
+        "tag":"UI/UX",
+        "title":"Crowdfunding",
+        "description":"Tijdens de bootcamp na de lesvrije week mochten we een project opstarten in groep. We moesten een online product designen die de stad ecologischer zou maken. <br><br> Als groep hebben wij een app gedesigned waar je je eigen drinkfles kan designen in welke vorm of kleur dan ooit.<br><br> Voor ons product hebben we een crowdfunding onepage opgemaakt met behulp van eleventy.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/bottle.png",
+        "githubUrl":" https://pgmgent-1920-students.github.io/crowdfunding-AlexMakdis/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa40",
+        "tag":"Webdesign",
+        "title":"Super villian wanted",
+        "description":"Onze eerste opdracht ooit was voor Webdesign.<br><br> Hier kregen we de opdracht om via HTML en CSS een vacature op te maken voor een super slechterik.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/super_evil.jpg",
+        "githubUrl":" https://alexmakdis.github.io/Webdesign_super_villain/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa42",
+        "tag":"Webdesign",
+        "title":"Thriven",
+        "description":"Onze tweede opdracht voor Webdesign was om een fake site na te bootsen. <br><br> Dit was vooral om flexbox in te oefenen.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/thriven.png",
+        "githubUrl":" https://alexmakdis.github.io/Webdesign_thriven/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa44",
+        "tag":"Webdesign",
+        "title":"Rage against the machine",
+        "description":"Onze laatste opdracht voor Webdesign. <br><br> Hier kregen we een afbeelding van een site en die moest je zo goed mogelijk namaken.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/logo.png",
+        "githubUrl":" https://alexmakdis.github.io/Webdesign_Band/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa46",
+        "tag":"Webpgm",
+        "title":"My own art",
+        "description":"De eerste opdracht voor Web Programming. <br><br> We mochten een eigen kunstwerk maken met behulp van Javascript",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/own_art.jpg",
+        "githubUrl":"https://alexmakdis.github.io/Webpgm_OwnArt/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa48",
+        "tag":"Webpgm",
+        "title":"Parking",
+        "description":"De tweede opdracht voor Web Programming. <br><br> Met behulp van API konden we de momentele parking situatie in gent tonen.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/parking.jpg",
+        "githubUrl":" https://alexmakdis.github.io/Webprogram_Parking/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa50",
+        "tag":"Webpgm",
+        "title":"Project cards",
+        "description":"Derde opdracht voor Web Programming. <br><br> Dit was vooral om DOM elementen te oefenen. Hier tonen we projecten van GDM en bij een click worden de details getoond.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/project_cards.png",
+        "githubUrl":" https://alexmakdis.github.io/Webprogram_ProjectCards/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa52",
+        "tag":"Webpgm",
+        "title":"Tinder",
+        "description":"Voor de vierde opdracht voor Web Programming hebben we met behulp van API, Tinder proberen na te bootsen. Dit was ook om localStorage te oefenen.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/tinder.png",
+        "githubUrl":" https://alexmakdis.github.io/WebProgram_tinder/"
+        
+    },{
+        "id":"10737437-307e-4232-b687-b03a0d7cfa54",
+        "tag":"Webpgm",
+        "title":"Quiz",
+        "description":"Vijfde opdracht voor Web Programming. <br><br> Hier hebben we een quiz gemaakt. De vragen kwamen van een API. De score wordt bijgehouden door localStorage.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-AlexMakdis/static/cases/images/quiz.png",
+        "githubUrl":" https://alexmakdis.github.io/Webprogram_Quiz/"
+        
     }
 ]
